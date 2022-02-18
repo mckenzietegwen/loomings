@@ -1,0 +1,43 @@
+.rotateimg180 {
+  -webkit-transform:rotate(180deg);
+  -moz-transform: rotate(180deg);
+  -ms-transform: rotate(180deg);
+  -o-transform: rotate(180deg);
+  transform: rotate(180deg);
+}
+
+body {
+  font-family: Helvetica;
+  background-color: #321a28;
+  font-size: 130%;
+  line-height: 1.2;
+  margin: 600px 100px;
+}
+
+h1 {
+  color: #e4693a;
+  font-size: 50pt
+}
+.hello {
+  color: #e4693a;
+}
+
+.simple-highlight {
+    color: #321a28;
+  background-color: #e4693a;
+  padding: 0.1em 0.2em;
+}
+
+blockquote {
+  margin-left: 150px;
+  max-width: 500px;
+  font-style: italic;
+  font-size: 75%;
+  text-align: justify;
+}
+
+.paragraph {
+  margin-right: 700px;
+  max-width: 700px;
+  text-align: justify;
+}
